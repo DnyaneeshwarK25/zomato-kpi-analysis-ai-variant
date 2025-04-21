@@ -1,0 +1,56 @@
+### Descriptive Analysis
+
+1. **Total Restaurants by Year**:
+   - The number of restaurants outside India fluctuates from 2010 to 2018.
+   - The highest number of restaurants opened was in 2011 (111), while the lowest was in 2016 (89).
+
+2. **Top Cuisines**:
+   - Mexican cuisine is the most popular, accounting for 3.6% of the total restaurants.
+   - Other popular cuisines include American (3.0%), Italian (2.9%), Cafe (2.4%), and another unspecified cuisine at 2.2%.
+
+3. **Top Restaurants on the Basis of Count of Votes**:
+   - The restaurant "Bern's Steak" received the highest number of votes (3.2K).
+   - Other highly voted restaurants include "Datz" (3.1K), "AB's Absolute Barbecues" (2.5K), "The Cheesecake Factory" (2.4K), and "Texas de Brazil" (2.3K).
+
+4. **Top Countries on the Basis of Count of Restaurants**:
+   - The United States has the highest number of restaurants (420).
+   - Other countries with notable counts include the United Kingdom (80), Brazil (60), United Arab Emirates (60), and New Zealand (40).
+
+5. **Restaurants Based on Price Bucket List**:
+   - The majority of restaurants fall in the $0-$10 price range (76%).
+   - Other price ranges include $10-$19.99 (13%), $20-$29.99 (5%), $30-$49.99 (4%), and $50 and above (2%).
+
+6. **Restaurants Based on Rating**:
+   - The majority of restaurants have an "Excellent" rating (56%).
+   - Other ratings include "Good" (42%), "Average" (1%), and "Poor" (1%).
+
+7. **KPIs**:
+   - Average cost for two: $35.3
+   - Average rating: 4.1
+   - Partnered restaurants: 899
+   - Restaurants having online table booking: 0%
+   - Restaurants having online delivery: 0%
+
+### Prescriptive Analysis
+
+1. **Expansion Strategy**:
+   - **Country Focus**: Given the high concentration of restaurants in the United States, expansion efforts could target underrepresented countries like Qatar, Singapore, and Sri Lanka to balance restaurant distribution and tap into new markets.
+   - **Cuisine Diversity**: Diversifying the cuisine offerings in countries where Mexican cuisine dominates could attract a wider customer base. Introducing more Italian, Cafe, and other unique cuisines might help in increasing footfall.
+
+2. **Pricing Strategy**:
+   - With 76% of the restaurants in the $0-$10 price range, introducing mid-range and premium dining options could cater to a different segment of customers willing to spend more, potentially increasing average revenue per customer.
+
+3. **Quality Improvement**:
+   - Focus on maintaining and enhancing restaurant ratings, as the average rating is relatively high at 4.1. Implementing quality control measures, staff training, and customer feedback systems can sustain and improve the dining experience.
+
+4. **Online Services**:
+   - With majority of restaurants not offering online table booking or online delivery, there is substantial room for growth in these areas. Expanding online services can meet growing customer demand for convenience and increase market share.
+
+5. **Marketing and Promotions**:
+   - Restaurants like "Bern's Steak" and "Datz" with high vote counts can be studied for best practices in customer engagement and satisfaction. Leveraging their success stories in marketing campaigns can boost the visibility and reputation of other restaurants.
+
+6. **Partnerships and Collaborations**:
+   - Increasing the number of partnered restaurants (currently 899) through collaborations with  local events, and businesses can expand the customer base and enhance brand loyalty.
+
+7. **Data-Driven Decisions**:
+   - Continually analyze customer preferences, market trends, and competitive landscape to make informed decisions. Regularly updating the dashboard with new data and insights can help in agile decision-making and strategy adjustments.

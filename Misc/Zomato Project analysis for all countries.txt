@@ -1,0 +1,57 @@
+### Descriptive Analysis
+
+1. **Total Restaurants by Year**:
+   - The number of restaurants fluctuates from 2010 to 2018.
+   - The highest number of restaurants opened was in 2018 (1102), while the lowest was in 2014 (1024).
+
+2. **Top Cuisines**:
+   - North Indian cuisine is the most popular, accounting for 9.8% of the total restaurants.
+   - Other popular cuisines include a combination of North Indian with Mughlai (5.4%), Chinese (3.7%), and Fast Food (3.7%).
+
+3. **Top Restaurants on the Basis of Count of Votes**:
+   - The restaurant "Toit" received the highest number of votes (10.9K).
+   - Other highly voted restaurants include "Truffles" (9.7K), "Hauz Khas Social" (7.9K), "Peter Cat" (7.6K), and "AB's - Absolute Barbecues" (6.9K).
+
+4. **Top Cities on the Basis of Count of Restaurants**:
+   - New Delhi has the highest number of restaurants (5.5K).
+   - Gurgaon and Noida both have 1.1K restaurants each.
+   - Faridabad and Ghaziabad have significantly fewer restaurants, with 0.3K and 0 respectively.
+
+5. **Restaurants Based on Price Bucket List**:
+   - The majority of restaurants fall in the $0-$10 price range (76%).
+   - Other price ranges include $10-$19.99 (13%), $20-$29.99 (5%), $30-$49.99 (4%), and $50 and above (2%).
+
+6. **Restaurants Based on Rating**:
+   - The majority of restaurants have a "Good" rating (46%).
+   - Other ratings include "Poor" (23%), "Average" (20%), and "Excellent" (12%).
+
+7. **KPIs**:
+   - Average cost for two: $10.1
+   - Average rating: 2.9
+   - Partnered restaurants: 9551
+   - Restaurants having online table booking: 12%
+   - Restaurants having online delivery: 26%
+
+### Prescriptive Analysis
+
+1. **Expansion Strategy**:
+   - **City Focus**: Given the high concentration of restaurants in New Delhi, expansion efforts could target underrepresented cities like Faridabad and Ghaziabad to balance restaurant distribution and tap into new markets.
+   - **Cuisine Diversity**: Diversifying the cuisine offerings in cities where North Indian cuisine dominates could attract a wider customer base. Introducing more Chinese, Fast Food, and unique cuisines might help in increasing footfall.
+
+2. **Pricing Strategy**:
+   - With 76% of the restaurants in the $0-$10 price range, introducing mid-range and premium dining options could cater to a different segment of customers willing to spend more, potentially increasing average revenue per customer.
+
+3. **Quality Improvement**:
+   - Focus on improving restaurant ratings, as the average rating is relatively low at 2.9. Implementing quality control measures, staff training, and customer feedback systems can enhance the dining experience and improve ratings.
+
+4. **Online Services**:
+   - With only 12% of restaurants offering online table booking and 26% providing online delivery, there is substantial room for growth in these areas. Expanding online services can meet growing customer demand for convenience and increase market share.
+
+5. **Marketing and Promotions**:
+   - Restaurants like "Toit" and "Truffles" with high vote counts can be studied for best practices in customer engagement and satisfaction. Leveraging their success stories in marketing campaigns can boost the visibility and reputation of other restaurants.
+
+6. **Partnerships and Collaborations**:
+   - Increasing the number of partnered restaurants (currently 9551) through collaborations with  local events, and businesses can expand the customer base and enhance brand loyalty.
+
+7. **Data-Driven Decisions**:
+   - Continually analyze customer preferences, market trends, and competitive landscape to make informed decisions. Regularly updating the dashboard with new data and insights can help in agile decision-making and strategy adjustments.
